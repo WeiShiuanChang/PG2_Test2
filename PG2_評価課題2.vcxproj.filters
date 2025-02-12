@@ -118,5 +118,6 @@
     <ClInclude Include="Enemy.h" />
     <ClInclude Include="Print.h" />
     <ClInclude Include="Scene.h" />
+    <ClInclude Include="Vector2.h" />
   </ItemGroup>
 </Project>
